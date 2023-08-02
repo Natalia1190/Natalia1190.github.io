@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: ¿Quién soy y cuál es el objeto de este blog?
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/IMG_2248.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Soy Natalia y en este blog no van a encontrar un tema en específico, tampoco lograrán instruirse sobre un algo concreto. Este blog es algo así como un diario, en el que encontrarán diversas historias que decidí sacarlas por medio de las palabras, para que no se quedaran como un simple ejercicio de pensamiente y puede que alguno de estos escritos, usted pueda llegar a sentirse identificado. En resumen, no esperen nada.
